@@ -90,6 +90,5 @@ OPENROUTER_API_KEY = "your_key_here"
 
 ## ⚠️ Disclaimer
 This tool is powered by Artificial Intelligence and is intended for **educational and informational purposes only**. It does not provide professional legal or medical advice. Always consult with a qualified lawyer or medical professional before making decisions based on AI-generated analysis.
-```
 
 ---
